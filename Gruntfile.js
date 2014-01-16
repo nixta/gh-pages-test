@@ -21,8 +21,8 @@ module.exports = function(grunt) {
     },
     'gh-pages': {
       options: {
-        base: 'build',
-        push: false
+        base: 'build'/*,
+        push: false*/
       },
       src: '**/*'
     }
