@@ -1,7 +1,7 @@
 # (ArcGIS.js <= 100)
 ### Welcome to the 100 Lines or Less ArcGIS JavaScript Code Challenge!
 
-Everybody loves a cool mapping app.  Here's your chance to write the coolest application in 100 lines or less with the [ArcGIS API for JavaScript](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html) and win a one-year subscription to [ArcGIS Online](http://www.esri.com/software/arcgis/arcgisonline) and a free 2014 Esri Dev Summit pass - a $3,500 value, a free pass to the 2014 Esri Dev Summit - a $1000 value or a $100 Esri Press gift certificate.  Anyone can enter, but just to make things a little more exciting, we'll be announcing the winners at the [2014 Esri International Developer Summit](http://www.esri.com/events/devsummit/index.html).  You don't need to attend the DevSummit to win or claim your prize however.
+Everybody loves a cool mapping app.  Here's your chance to write the coolest application in 100 lines or less with the [ArcGIS API for JavaScript](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html) and win a one-year subscription to [ArcGIS Online](http://www.esri.com/software/arcgis/arcgisonline) and a free 2014 Esri Dev Summit pass - a $3,500 value, a free pass to the 2014 Esri Dev Summit - a $1000 value or a $100 Esri Press gift certificate.  Anyone can enter, but just to make things a little more exciting, we'll be announcing the winners at the [2013 Esri International Developer Summit](http://www.esri.com/events/devsummit/index.html).  You don't need to attend the DevSummit to win or claim your prize however.
 
 To enter all you need to do is make a pull request to submit your code (see How to Enter below).    
 
@@ -10,18 +10,57 @@ Best of luck!
 ![App](100-lines-or-less-js.png)
 
 ## Winners
-Check back here on Thursday March 13th, 2014!
+1. [Realtime Collaborative Mapping](http://esri.github.com/100-lines-or-less-js/2013/realtime-collaborative-mapping/index.html) by [Phil Leggetter](https://github.com/leggetter)
+2. [Bees](http://esri.github.com/100-lines-or-less-js/2013/bees/bees.html) by [Stan McShinsky](https://github.com/smcshinsky)
+3. [Image Geotagging](http://esri.github.com/100-lines-or-less-js/2013/javascript_geotagging/index.html) by [Ognian Samokovliyski](https://github.com/ognian7)
 
 ## View the Entries
-Be the first with your pull request.
+
+1. [Meet Brazil](http://esri.github.com/100-lines-or-less-js/2013/meet_brazil/index.html) by [marcos-fedato](http://github.com/marcos-fedato)
+2. [Maps Hangman Game](http://esri.github.com/100-lines-or-less-js/2013/hangmanmap/hangmanmap.html) by [vmachuca](http://github.com/vmachuca)
+3. [Australian Climate Explorer](http://esri.github.com/100-lines-or-less-js/2013/AustralianClimateExplorer/index.html) by [slead](http://github.com/slead)
+4. [LA County Parks Finder](http://esri.github.com/100-lines-or-less-js/2013/SimpleLACountyParks/index.html) by [odoe](http://github.com/odoe)
+5. [Map Bookmarks](http://esri.github.com/100-lines-or-less-js/2013/mapbook/index.html) by [davewilton](http://github.com/davewilton)
+6. [Esri Flickr Map](http://esri.github.com/100-lines-or-less-js/2013/esriflickrmap/index.html) by [amshel](http://github.com/amshel)
+7. [County Destroyer!](http://esri.github.com/100-lines-or-less-js/2013/CountyDestroyer/index.html) by [odoe](http://github.com/odoe)
+8. [Get me to the Summit](http://esri.github.com/100-lines-or-less-js/2013/GetMeToTheDevSummit/index.html) by [raykendo](https://github.com/raykendo)
+9. [Facebook Page Finder](http://esri.github.com/100-lines-or-less-js/2013/fb_page_locator/index.html) by [jmschmidt7](https://github.com/jmschmidt7)
+10. [Leafmap](http://esri.github.com/100-lines-or-less-js/2013/leafmap/index.html) by [tmcs](https://github.com/tmcw)
+11. [Mobile Dev Agenda](http://esri.github.com/100-lines-or-less-js/2013/MobileDevAgenda/DevAgenda.html) by [shadcampbell](https://github.com/shadcampbell)
+12. [Leap into ArcGIS](http://esri.github.com/100-lines-or-less-js/2013/LeapIntoArcgis/index.html) by [cbupp](https://github.com/cbupp)
+13. [Air quality Egg Viewer](http://esri.github.com/100-lines-or-less-js/2013/AirQualityEggViewer/index.html) by [mpfeil](https://github.com/mpfeil)
+14. [AmbientLands](http://esri.github.com/100-lines-or-less-js/2013/ambientlands/index.html) by [bdelville](https://github.com/bdelville)
+15. [Dev Summit Session Explorer](http://esri.github.com/100-lines-or-less-js/2013/DevSummitSessionsExplorer/index.html) by [orengal](https://github.com/orengal)
+16. [County Stats](http://esri.github.com/100-lines-or-less-js/2013/CountyStats/CountyStats.html) by [TheBryanMac](https://github.com/TheBryanMac)
+17. [Bees](http://esri.github.com/100-lines-or-less-js/2013/bees/bees.html) by [smcshinsky](https://github.com/smcshinsky)
+18. [Flight Simulator](http://esri.github.com/100-lines-or-less-js/2013/flight-simulator/flight-simulator.html) by [Łukasz Kryger](https://github.com/kryger)
+19. [Esri WX Forecast](http://esri.github.com/100-lines-or-less-js/2013/esri-weather-forecast/index.html) by [azmikamis](https://github.com/azmikamis)
+20. [Hurricane Sandy Wind Map](http://esri.github.com/100-lines-or-less-js/2013/sandywindmap/sandywindmap.html) by [hwernstrom](https://github.com/hwernstrom)
+21. [ArcGIS for GoogleGlass Sim](http://esri.github.com/100-lines-or-less-js/2013/ArcGIS_for_GoogleGlass_Sim/index.htm) by [prev801](https://github.com/prev801)
+22. [Realtime Collaborative Mapping](http://esri.github.com/100-lines-or-less-js/2013/realtime-collaborative-mapping/index.html) by [leggetter](https://github.com/leggetter)
+23. [Beer GeoRSS](http://esri.github.com/100-lines-or-less-js/2013/beerGeoRSS/beerGeoRSS.html) by [boeckMt](https://github.com/boeckMt)
+24. [World Migration Explorer](http://esri.github.com/100-lines-or-less-js/2013/WorldMigrationExplorer/challenge.html) by [GeotecUJI](https://github.com/GeotecUJI)
+25. [Geotagged Wikipedia Articles](http://esri.github.com/100-lines-or-less-js/2013/GeotaggedWikipediaArticles/index.html) by [rjstanley](https://github.com/rjstanley)
+26. [USGS Earthquakes](http://esri.github.com/100-lines-or-less-js/2013/USGSEarthquakes/index.html) by [rjstanley](https://github.com/rjstanley)
+27. [Zombie Smash](http://esri.github.com/100-lines-or-less-js/2013/zombiesmash/Index.html) by [dbouwman](https://github.com/dbouwman)
+28. [Where's Huell](http://esri.github.com/100-lines-or-less-js/2013/WheresHuell/index.html) by [jsaltenberger](https://github.com/jsaltenberger)
+29. [Bus Race](http://esri.github.com/100-lines-or-less-js/2013/busrace/index.html) by [tsellste](https://github.com/tsellste)
+30. [24 Seconds](http://esri.github.com/100-lines-or-less-js/2013/24Seconds/24Seconds.htm) by [FabianoHino](https://github.com/FabianoHino)
+31. [Track Me](http://esri.github.com/100-lines-or-less-js/2013/trackme/default.htm) by [sahalmir](https://github.com/sahalmir)
+32. [Image Geotagging](http://esri.github.com/100-lines-or-less-js/2013/javascript_geotagging/index.html) by [ognian7](https://github.com/ognian7)
+33. [Maptrest](http://esri.github.com/100-lines-or-less-js/2013/maptrest/maptrest.html) by [innopal](https://github.com/innopal)
+34. [Beer Finder](http://esri.github.com/100-lines-or-less-js/2013/BeerFinder/BeerFinder.html) by [nrgizgun](https://github.com/nrgizgun)
+35. [Google Street View Madness](http://esri.github.com/100-lines-or-less-js/2013/google-street-view-madness/index.html) by [Mark Laudon](https://github.com/MapsRus)
+36. [Test My Memory](http://esri.github.com/100-lines-or-less-js/2013/TestMyMemory/testmymemory.html) by [rvangilst](https://github.com/rvangilst)
+37. [Conway Life Game](http://esri.github.com/100-lines-or-less-js/2013/conwayGame/conwaylifegame.html) by [tonynovi](https://github.com/tonynovi)
 
 ## Contest Period
-- Starts: 9:00 AM PST Friday, Feb 21, 2014
-- Closes: 6:00 PM PST Wednesday Mar 27, 2014 (No entries will be accepted after this time.)
+- Starts: 9:00 AM PST Friday, Mar 8, 2013
+- Closes: 6:00 PM PST Wednesday Mar 27, 2013 (No entries will be accepted after this time.)
 
 ## How to Enter
 1. Fork and then clone this repo.
-2. Add a folder sub-folder in the 2014 folder with your app in it (see example).
+2. Add a folder to the repo with your app in it (see example).
 3. Make a pull request to submit your entry. This request represents your agreement to the [Terms and Conditions](http://edn1.esri.com/terms%20and%20conditions%20agreement.pdf).
 
 NOTE: Be sure to Pull and Merge from this repo to get the latest before making your pull request!
@@ -39,11 +78,11 @@ NOTE: Be sure to Pull and Merge from this repo to get the latest before making y
 See all rules, terms and conditions [here](http://edn1.esri.com/terms%20and%20conditions%20agreement.pdf).
 
 ## What can I win?
-1. One year ArcGIS Online Subscription & Esri International Developer Summit Pass for 2015
-2. Esri International Developer Summit Pass for 2015
-3. $100 of books from Esri Press
+1. One year ArcGIS Online Subscription & Esri International Developer Summit Pass for 2014
+2. Esri International Developer Summit Pass for 2014
+3. $100 Esri Press gift certificate
 
-Winners will be announed at the Esri Dev Summit Mar 13!
+Winners will be announed at the Esri Dev Summit Mar 28!
 
 ## Judging Criteria
 
@@ -98,7 +137,7 @@ Follow the structure of [this](https://github.com/Esri/100-lines-or-less-js/tree
 * [@esri](http://twitter.com/esri)
 
 ## Licensing
-Copyright 2014 Esri
+Copyright 2013 Esri
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

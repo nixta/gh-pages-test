@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=7,IE=9">   
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no">
+  <title>Test My Memory</title>
+  <link rel="stylesheet" type="text/css" href="http://serverapi.arcgisonline.com/jsapi/arcgis/3.3/js/esri/css/esri.css">
+  <script src="http://serverapi.arcgisonline.com/jsapi/arcgis/3.3compact"></script>
+  <!-- Load my JavaScript and CSS -->
+  <link rel="stylesheet" type="text/css" href="css/examples.css">
+  <script src="js/testmymemory.js"></script>
+</head>
+  <body>
+    <div class="panel">
+      <div class="titlearea"><span id="titleMessage" class="title-message">Test My Memory</span></div>
+      <div class="controls">
+        <div class="buttons"><h3 style="margin-top:0px;margin-bottom:0px;">Test My Memory</h3>
+        </div>
+		<div id="start">
+			<select id="WhatToSelect">
+				<option value="http://sampleserver6.arcgisonline.com/arcgis/rest/services/USA/MapServer/2,state_name,,[-95.625: 39.243],4">States</option>
+				<option value="http://sampleserver6.arcgisonline.com/arcgis/rest/services/USA/MapServer/3,name,state_name='California',[-117.511: 37.779],7">Counties in California</option>
+				<option value="http://sampleserver6.arcgisonline.com/arcgis/rest/services/USA/MapServer/3,name,state_name='Mississippi',[-90.94: 33.646],8">Counties in Mississippi</option>				
+			</select>
+			<button onclick="initFunctionality()">Go</button>
+		</div>
+            <div id="infospace" style="text-align:left;display:none;">
+			<div>
+				 Find: <span id="nametofind"/> 
+				 </div>
+				<div id="details"  id="title" style="text-align:left;">
+					<div>Down:<span id="found" > </span></div>
+					<div>To Go: <span id="togo" ></span></div>	
+					<div>Mistakes: <span id="mistake" ></span></div>	
+			<button onclick="start.style.display='';infospace.style.display='none';">Back</button>
+				</div>  	
+				
+			</div>
+      </div>
+      <div class="message"><span id="userMessage" class="user-message"></span></div>
+    </div>
+    <div id="mapDiv"></div>
+  </body>
+</html>

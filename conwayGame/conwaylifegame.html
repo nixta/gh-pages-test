@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=7,IE=9">
+		<meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no"/>
+		<title>Conway's Game of Life with Counties</title>
+		<!-- esri & claro.css -->
+		<link rel="stylesheet" href="http://serverapi.arcgisonline.com/jsapi/arcgis/3.3/js/dojo/dijit/themes/claro/claro.css">
+		<link rel="stylesheet" href="http://serverapi.arcgisonline.com/jsapi/arcgis/3.3/js/esri/css/esri.css">
+		<!-- game css file-->
+		<link rel="stylesheet" href="css/conwayGame.css" />
+		<!-- esri js api -->
+		<script src="http://serverapi.arcgisonline.com/jsapi/arcgis/3.3/"></script>
+		<!-- game js file-->
+		<script src="js/ArcGIS.js"></script>
+	</head>
+
+	<body class="claro">
+		<div id="map"></div>
+		<a href="#" id="nextGenerationButton" onclick="calculateNextStep();">Click on map to select a State</a>
+		<a href="http://geoatelie.ru" id="authorLink">Conway's Life game with US Counties by <u><b>tonynovi</b></u></a>
+	</body>
+</html>
